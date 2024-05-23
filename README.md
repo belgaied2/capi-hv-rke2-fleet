@@ -1,0 +1,1 @@
+# Example of CAPI Resources for Fleet
