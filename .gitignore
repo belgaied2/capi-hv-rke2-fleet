@@ -1,0 +1,12 @@
+
+# Terraform state and secrets
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.auto.tfvars
+.env
+*.pem
+id_rsa
+*kubeconfig
+*.key
